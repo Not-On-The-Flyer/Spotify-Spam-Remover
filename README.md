@@ -1,4 +1,4 @@
-# Spotify-Spam-Remover
+# Spotify Spam Remover
 
 A Python script to remove annoying spam songs from collaborative playlists.
 
