@@ -9,6 +9,7 @@ from spotipy import CacheFileHandler
 from spotipy.oauth2 import SpotifyOAuth
 
 # Users that are allowed to add songs
+# Value found in https://open.spotify.com/user/<<username>>
 allow_list = [
     'username1',
     'username2',
